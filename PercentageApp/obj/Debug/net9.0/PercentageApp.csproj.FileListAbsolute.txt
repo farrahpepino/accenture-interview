@@ -1,0 +1,15 @@
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/bin/Debug/net9.0/PercentageApp
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/bin/Debug/net9.0/PercentageApp.deps.json
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/bin/Debug/net9.0/PercentageApp.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/bin/Debug/net9.0/PercentageApp.dll
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/bin/Debug/net9.0/PercentageApp.pdb
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.sourcelink.json
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.dll
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/refint/PercentageApp.dll
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.pdb
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/PercentageApp.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/accenture-interview/PercentageApp/obj/Debug/net9.0/ref/PercentageApp.dll

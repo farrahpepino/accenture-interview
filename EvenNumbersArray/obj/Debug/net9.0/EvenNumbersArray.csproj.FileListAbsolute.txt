@@ -1,0 +1,15 @@
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/bin/Debug/net9.0/EvenNumbersArray
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/bin/Debug/net9.0/EvenNumbersArray.deps.json
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/bin/Debug/net9.0/EvenNumbersArray.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/bin/Debug/net9.0/EvenNumbersArray.dll
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/bin/Debug/net9.0/EvenNumbersArray.pdb
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.sourcelink.json
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.dll
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/refint/EvenNumbersArray.dll
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.pdb
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/EvenNumbersArray.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/accenture-interview/EvenNumbersArray/obj/Debug/net9.0/ref/EvenNumbersArray.dll
